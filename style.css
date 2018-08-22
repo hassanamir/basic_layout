@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    background: rgb(133, 132, 132);
+    /* this section covers the entire webpage */
+  }
+  body {
+    font-size: 28px;
+    line-height: 36px;
+    color: rgb(172, 170, 170);
+    padding-right: 135px;
+    padding-left: 135px;
+position: relative;
+}
+  header {
+    padding: 20px;
+    margin-bottom: 10px;
+    background: rgb(253, 253, 253);
+  }
+  #nav {
+    padding: 20px;
+    margin-top: 9px;
+    margin-bottom: 20px;
+    background: rgb(253, 253, 253);
+  }
+  #aside {
+    /* padding: 0px;
+    margin-bottom: 0px; */
+    background: rgb(255, 255, 255);
+    float: right;
+    width: 49%;
+    height: 280px;
+    padding-top: 15px;
+    border: 10px;
+   
+  }
+  #section{
+    width: 50%;
+    height: 280px;
+    background: rgb(255, 255, 255);
+    float: left;
+    padding: 0px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+  }
+  aside{
+    width: 97%;
+    height: 195px;
+    color: white;
+    background: rgb(133, 132, 132);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    padding: 10px;
+    padding-top: 5px;
+    
+  }
+  #division{
+    font-size: 24px;
+    font-weight: bold;
+    width: 93%;
+    height: 60px;
+    background: white;
+    padding: 20px;
+    position: relative;
+    left: 19px;
+    top: -150px;
+    color: rgb(90, 86, 86);
+  }
+  #cop{
+    
+    width: 93%;
+    height: 60px;
+    background: white;
+    padding: 20px;
+    position: relative;
+    left: 19px;
+    top: -140px;
+   
+  }
+  footer {
+    padding: 20px;
+    clear: both;
+    background: white;
+    
+   
+  }
+  footer {
+    padding: 20px;
+    clear: both;
+    background: white;
+    
+   
+  }
